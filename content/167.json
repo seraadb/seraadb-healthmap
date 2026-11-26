@@ -1,0 +1,54 @@
+{
+ "title": "FHIR",
+ "text": "Fast Healthcare Interoperability Resources: a modern HL7 standard for exchanging health data over web APIs.",
+ "children": [
+  {
+   "title": "Resources",
+   "text": "Small, modular data objects.",
+   "children": [
+    {
+     "title": "Common resources",
+     "text": "Patient, Observation, Condition, MedicationRequest and Encounter cover most clinical data.",
+     "children": []
+    },
+    {
+     "title": "References",
+     "text": "Resources link to each other, for example an Observation points to its Patient.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "title": "API",
+   "text": "RESTful access.",
+   "children": [
+    {
+     "title": "Operations",
+     "text": "GET, POST, PUT and DELETE on endpoints like /Patient/123, returning JSON or XML.",
+     "children": []
+    },
+    {
+     "title": "Search",
+     "text": "Query parameters filter results, e.g. Observation?patient=123&code=8867-4.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "title": "Ecosystem",
+   "text": "How FHIR is used.",
+   "children": [
+    {
+     "title": "Profiles",
+     "text": "Implementation guides constrain resources for a country or use case, such as US Core.",
+     "children": []
+    },
+    {
+     "title": "SMART on FHIR",
+     "text": "An OAuth-based framework letting apps launch securely inside EHRs.",
+     "children": []
+    }
+   ]
+  }
+ ]
+}

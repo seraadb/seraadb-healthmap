@@ -1,0 +1,54 @@
+{
+ "title": "ECG",
+ "text": "An electrocardiogram records the heart's electrical activity from electrodes on the skin.",
+ "children": [
+  {
+   "title": "Signal origin",
+   "text": "Each heartbeat starts in the SA node and spreads through the heart, creating tiny voltage changes at the skin.",
+   "children": [
+    {
+     "title": "Waves",
+     "text": "P = atrial depolarisation, QRS = ventricular depolarisation, T = ventricular repolarisation.",
+     "children": []
+    },
+    {
+     "title": "Intervals",
+     "text": "PR interval, QRS width and QT interval reveal conduction delays and rhythm risks.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "title": "Acquisition",
+   "text": "Electrodes, leads and analogue front-end.",
+   "children": [
+    {
+     "title": "Leads",
+     "text": "A standard 12-lead ECG views the heart from 12 angles using limb and chest electrodes.",
+     "children": []
+    },
+    {
+     "title": "Front-end",
+     "text": "Instrumentation amplifiers, filters and ADCs boost microvolt signals and reject noise.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "title": "Processing",
+   "text": "Cleaning and interpreting the trace.",
+   "children": [
+    {
+     "title": "Filtering",
+     "text": "Band-pass filters remove baseline wander and muscle noise; a notch filter removes mains hum.",
+     "children": []
+    },
+    {
+     "title": "QRS detection",
+     "text": "Algorithms such as Pan–Tompkins find R-peaks, giving heart rate and variability.",
+     "children": []
+    }
+   ]
+  }
+ ]
+}

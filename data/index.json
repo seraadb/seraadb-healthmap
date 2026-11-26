@@ -1,0 +1,1518 @@
+[
+ {
+  "letter": "A",
+  "name": "Biological and Medical Sciences",
+  "topics": [
+   {
+    "n": 1,
+    "name": "Human Anatomy"
+   },
+   {
+    "n": 2,
+    "name": "Human Physiology"
+   },
+   {
+    "n": 3,
+    "name": "Cell Biology"
+   },
+   {
+    "n": 4,
+    "name": "Molecular Biology"
+   },
+   {
+    "n": 5,
+    "name": "Biochemistry"
+   },
+   {
+    "n": 6,
+    "name": "Human Histology"
+   },
+   {
+    "n": 7,
+    "name": "Developmental Biology"
+   },
+   {
+    "n": 8,
+    "name": "Genetics"
+   },
+   {
+    "n": 9,
+    "name": "Human Genomics"
+   },
+   {
+    "n": 10,
+    "name": "Epigenetics"
+   },
+   {
+    "n": 11,
+    "name": "Immunology"
+   },
+   {
+    "n": 12,
+    "name": "Microbiology"
+   },
+   {
+    "n": 13,
+    "name": "Virology"
+   },
+   {
+    "n": 14,
+    "name": "Bacteriology"
+   },
+   {
+    "n": 15,
+    "name": "Parasitology"
+   },
+   {
+    "n": 16,
+    "name": "Pathology"
+   },
+   {
+    "n": 17,
+    "name": "Pathophysiology"
+   },
+   {
+    "n": 18,
+    "name": "Medical Terminology"
+   },
+   {
+    "n": 19,
+    "name": "Human Metabolism"
+   },
+   {
+    "n": 20,
+    "name": "Neurobiology"
+   }
+  ]
+ },
+ {
+  "letter": "B",
+  "name": "Clinical and Medical Sciences",
+  "topics": [
+   {
+    "n": 21,
+    "name": "General Medicine"
+   },
+   {
+    "n": 22,
+    "name": "Clinical Diagnosis"
+   },
+   {
+    "n": 23,
+    "name": "Clinical Pathology"
+   },
+   {
+    "n": 24,
+    "name": "Hematology"
+   },
+   {
+    "n": 25,
+    "name": "Clinical Biochemistry"
+   },
+   {
+    "n": 26,
+    "name": "Clinical Microbiology"
+   },
+   {
+    "n": 27,
+    "name": "Oncology"
+   },
+   {
+    "n": 28,
+    "name": "Cardiology"
+   },
+   {
+    "n": 29,
+    "name": "Neurology"
+   },
+   {
+    "n": 30,
+    "name": "Endocrinology"
+   },
+   {
+    "n": 31,
+    "name": "Nephrology"
+   },
+   {
+    "n": 32,
+    "name": "Pulmonology"
+   },
+   {
+    "n": 33,
+    "name": "Gastroenterology"
+   },
+   {
+    "n": 34,
+    "name": "Orthopaedics"
+   },
+   {
+    "n": 35,
+    "name": "Dermatology"
+   },
+   {
+    "n": 36,
+    "name": "Ophthalmology"
+   },
+   {
+    "n": 37,
+    "name": "Reproductive Medicine"
+   },
+   {
+    "n": 38,
+    "name": "Paediatrics"
+   },
+   {
+    "n": 39,
+    "name": "Geriatrics"
+   },
+   {
+    "n": 40,
+    "name": "Emergency Medicine"
+   },
+   {
+    "n": 41,
+    "name": "Radiology"
+   },
+   {
+    "n": 42,
+    "name": "Nuclear Medicine"
+   },
+   {
+    "n": 43,
+    "name": "Anaesthesiology"
+   },
+   {
+    "n": 44,
+    "name": "Psychiatry"
+   },
+   {
+    "n": 45,
+    "name": "Dentistry"
+   }
+  ]
+ },
+ {
+  "letter": "C",
+  "name": "Biomedical Engineering and Instrumentation",
+  "topics": [
+   {
+    "n": 46,
+    "name": "Biomedical Engineering Fundamentals"
+   },
+   {
+    "n": 47,
+    "name": "Biomedical Instrumentation"
+   },
+   {
+    "n": 48,
+    "name": "Biomedical Sensors"
+   },
+   {
+    "n": 49,
+    "name": "Biosensors"
+   },
+   {
+    "n": 50,
+    "name": "Wearable Sensors"
+   },
+   {
+    "n": 51,
+    "name": "Implantable Sensors"
+   },
+   {
+    "n": 52,
+    "name": "Medical Transducers"
+   },
+   {
+    "n": 53,
+    "name": "Biomedical Electronics"
+   },
+   {
+    "n": 54,
+    "name": "Biomedical Signal Acquisition"
+   },
+   {
+    "n": 55,
+    "name": "Biomedical Signal Processing"
+   },
+   {
+    "n": 56,
+    "name": "ECG"
+   },
+   {
+    "n": 57,
+    "name": "EEG"
+   },
+   {
+    "n": 58,
+    "name": "EMG"
+   },
+   {
+    "n": 59,
+    "name": "EOG"
+   },
+   {
+    "n": 60,
+    "name": "PPG"
+   },
+   {
+    "n": 61,
+    "name": "Blood Pressure Monitoring"
+   },
+   {
+    "n": 62,
+    "name": "Respiratory Monitoring"
+   },
+   {
+    "n": 63,
+    "name": "Patient Monitoring Systems"
+   },
+   {
+    "n": 64,
+    "name": "Medical Device Design"
+   },
+   {
+    "n": 65,
+    "name": "Medical Device Testing and Calibration"
+   },
+   {
+    "n": 66,
+    "name": "Medical Device Safety"
+   }
+  ]
+ },
+ {
+  "letter": "D",
+  "name": "Biomaterials and Tissue Engineering",
+  "topics": [
+   {
+    "n": 67,
+    "name": "Materials Science"
+   },
+   {
+    "n": 68,
+    "name": "Biomaterials"
+   },
+   {
+    "n": 69,
+    "name": "Biocompatibility"
+   },
+   {
+    "n": 70,
+    "name": "Biodegradable Materials"
+   },
+   {
+    "n": 71,
+    "name": "Biopolymers"
+   },
+   {
+    "n": 72,
+    "name": "Natural Polymers"
+   },
+   {
+    "n": 73,
+    "name": "Synthetic Polymers"
+   },
+   {
+    "n": 74,
+    "name": "Bioceramics"
+   },
+   {
+    "n": 75,
+    "name": "Biomedical Metals"
+   },
+   {
+    "n": 76,
+    "name": "Composite Biomaterials"
+   },
+   {
+    "n": 77,
+    "name": "Hydrogels"
+   },
+   {
+    "n": 78,
+    "name": "Scaffold Engineering"
+   },
+   {
+    "n": 79,
+    "name": "Scaffold Fabrication"
+   },
+   {
+    "n": 80,
+    "name": "Scaffold Characterisation"
+   },
+   {
+    "n": 81,
+    "name": "Tissue Engineering"
+   },
+   {
+    "n": 82,
+    "name": "Regenerative Medicine"
+   },
+   {
+    "n": 83,
+    "name": "Extracellular Matrix"
+   },
+   {
+    "n": 84,
+    "name": "Stem Cell Technology"
+   },
+   {
+    "n": 85,
+    "name": "Induced Pluripotent Stem Cells"
+   },
+   {
+    "n": 86,
+    "name": "Cell–Material Interactions"
+   },
+   {
+    "n": 87,
+    "name": "3D Bioprinting"
+   },
+   {
+    "n": 88,
+    "name": "Bioinks"
+   },
+   {
+    "n": 89,
+    "name": "Bioreactors"
+   },
+   {
+    "n": 90,
+    "name": "Organoids"
+   },
+   {
+    "n": 91,
+    "name": "Organ-on-a-Chip"
+   },
+   {
+    "n": 92,
+    "name": "Wound Healing"
+   },
+   {
+    "n": 93,
+    "name": "Bone Regeneration"
+   },
+   {
+    "n": 94,
+    "name": "Cartilage Regeneration"
+   },
+   {
+    "n": 95,
+    "name": "Nerve Regeneration"
+   },
+   {
+    "n": 96,
+    "name": "Vascular Tissue Engineering"
+   }
+  ]
+ },
+ {
+  "letter": "E",
+  "name": "Medical Imaging and Image Processing",
+  "topics": [
+   {
+    "n": 97,
+    "name": "Medical Imaging Fundamentals"
+   },
+   {
+    "n": 98,
+    "name": "X-ray Imaging"
+   },
+   {
+    "n": 99,
+    "name": "Computed Tomography"
+   },
+   {
+    "n": 100,
+    "name": "Magnetic Resonance Imaging"
+   },
+   {
+    "n": 101,
+    "name": "Ultrasound Imaging"
+   },
+   {
+    "n": 102,
+    "name": "PET Imaging"
+   },
+   {
+    "n": 103,
+    "name": "SPECT Imaging"
+   },
+   {
+    "n": 104,
+    "name": "Fluoroscopy"
+   },
+   {
+    "n": 105,
+    "name": "Mammography"
+   },
+   {
+    "n": 106,
+    "name": "Optical Coherence Tomography"
+   },
+   {
+    "n": 107,
+    "name": "Endoscopy"
+   },
+   {
+    "n": 108,
+    "name": "Digital Pathology"
+   },
+   {
+    "n": 109,
+    "name": "Whole Slide Imaging"
+   },
+   {
+    "n": 110,
+    "name": "Medical Image Acquisition"
+   },
+   {
+    "n": 111,
+    "name": "Image Enhancement"
+   },
+   {
+    "n": 112,
+    "name": "Image Filtering"
+   },
+   {
+    "n": 113,
+    "name": "Image Segmentation"
+   },
+   {
+    "n": 114,
+    "name": "Image Registration"
+   },
+   {
+    "n": 115,
+    "name": "Image Reconstruction"
+   },
+   {
+    "n": 116,
+    "name": "Image Feature Extraction"
+   },
+   {
+    "n": 117,
+    "name": "Radiomics"
+   },
+   {
+    "n": 118,
+    "name": "DICOM"
+   },
+   {
+    "n": 119,
+    "name": "PACS"
+   },
+   {
+    "n": 120,
+    "name": "3D Medical Image Reconstruction"
+   }
+  ]
+ },
+ {
+  "letter": "F",
+  "name": "Healthcare AI, Machine Learning and Data Science",
+  "topics": [
+   {
+    "n": 121,
+    "name": "Mathematics for AI"
+   },
+   {
+    "n": 122,
+    "name": "Linear Algebra"
+   },
+   {
+    "n": 123,
+    "name": "Calculus"
+   },
+   {
+    "n": 124,
+    "name": "Probability Theory"
+   },
+   {
+    "n": 125,
+    "name": "Statistics"
+   },
+   {
+    "n": 126,
+    "name": "Python for Healthcare"
+   },
+   {
+    "n": 127,
+    "name": "R for Biostatistics"
+   },
+   {
+    "n": 128,
+    "name": "Data Structures and Algorithms"
+   },
+   {
+    "n": 129,
+    "name": "Data Preprocessing"
+   },
+   {
+    "n": 130,
+    "name": "Exploratory Data Analysis"
+   },
+   {
+    "n": 131,
+    "name": "Supervised Learning"
+   },
+   {
+    "n": 132,
+    "name": "Unsupervised Learning"
+   },
+   {
+    "n": 133,
+    "name": "Reinforcement Learning"
+   },
+   {
+    "n": 134,
+    "name": "Artificial Neural Networks"
+   },
+   {
+    "n": 135,
+    "name": "Convolutional Neural Networks"
+   },
+   {
+    "n": 136,
+    "name": "Recurrent Neural Networks"
+   },
+   {
+    "n": 137,
+    "name": "Transformers"
+   },
+   {
+    "n": 138,
+    "name": "Natural Language Processing"
+   },
+   {
+    "n": 139,
+    "name": "Computer Vision"
+   },
+   {
+    "n": 140,
+    "name": "Generative AI"
+   },
+   {
+    "n": 141,
+    "name": "Variational Autoencoders"
+   },
+   {
+    "n": 142,
+    "name": "GANs"
+   },
+   {
+    "n": 143,
+    "name": "Diffusion Models"
+   },
+   {
+    "n": 144,
+    "name": "Explainable AI"
+   },
+   {
+    "n": 145,
+    "name": "Federated Learning"
+   },
+   {
+    "n": 146,
+    "name": "Transfer Learning"
+   },
+   {
+    "n": 147,
+    "name": "Multimodal AI"
+   },
+   {
+    "n": 148,
+    "name": "Medical Foundation Models"
+   },
+   {
+    "n": 149,
+    "name": "Clinical Decision Support AI"
+   },
+   {
+    "n": 150,
+    "name": "Predictive Healthcare Analytics"
+   },
+   {
+    "n": 151,
+    "name": "AI Model Validation"
+   },
+   {
+    "n": 152,
+    "name": "AI Ethics and Bias"
+   }
+  ]
+ },
+ {
+  "letter": "G",
+  "name": "Health Informatics and Digital Health",
+  "topics": [
+   {
+    "n": 153,
+    "name": "Health Informatics"
+   },
+   {
+    "n": 154,
+    "name": "Medical Informatics"
+   },
+   {
+    "n": 155,
+    "name": "Clinical Informatics"
+   },
+   {
+    "n": 156,
+    "name": "Bioinformatics"
+   },
+   {
+    "n": 157,
+    "name": "Nursing Informatics"
+   },
+   {
+    "n": 158,
+    "name": "Electronic Health Records"
+   },
+   {
+    "n": 159,
+    "name": "Electronic Medical Records"
+   },
+   {
+    "n": 160,
+    "name": "Hospital Information Systems"
+   },
+   {
+    "n": 161,
+    "name": "Laboratory Information Systems"
+   },
+   {
+    "n": 162,
+    "name": "Radiology Information Systems"
+   },
+   {
+    "n": 163,
+    "name": "Clinical Decision Support Systems"
+   },
+   {
+    "n": 164,
+    "name": "Health Information Exchange"
+   },
+   {
+    "n": 165,
+    "name": "Healthcare Interoperability"
+   },
+   {
+    "n": 166,
+    "name": "HL7"
+   },
+   {
+    "n": 167,
+    "name": "FHIR"
+   },
+   {
+    "n": 168,
+    "name": "SNOMED CT"
+   },
+   {
+    "n": 169,
+    "name": "ICD Classification"
+   },
+   {
+    "n": 170,
+    "name": "LOINC"
+   },
+   {
+    "n": 171,
+    "name": "Medical Data Standards"
+   },
+   {
+    "n": 172,
+    "name": "Healthcare Databases"
+   },
+   {
+    "n": 173,
+    "name": "SQL for Healthcare"
+   },
+   {
+    "n": 174,
+    "name": "Telemedicine"
+   },
+   {
+    "n": 175,
+    "name": "Remote Patient Monitoring"
+   },
+   {
+    "n": 176,
+    "name": "Mobile Health"
+   },
+   {
+    "n": 177,
+    "name": "Wearable Healthcare Technology"
+   },
+   {
+    "n": 178,
+    "name": "Digital Therapeutics"
+   },
+   {
+    "n": 179,
+    "name": "Smart Hospitals"
+   },
+   {
+    "n": 180,
+    "name": "Healthcare Cybersecurity"
+   }
+  ]
+ },
+ {
+  "letter": "H",
+  "name": "Biostatistics, Epidemiology and Research",
+  "topics": [
+   {
+    "n": 181,
+    "name": "Biostatistics"
+   },
+   {
+    "n": 182,
+    "name": "Descriptive Statistics"
+   },
+   {
+    "n": 183,
+    "name": "Inferential Statistics"
+   },
+   {
+    "n": 184,
+    "name": "Probability Distributions"
+   },
+   {
+    "n": 185,
+    "name": "Hypothesis Testing"
+   },
+   {
+    "n": 186,
+    "name": "Confidence Intervals"
+   },
+   {
+    "n": 187,
+    "name": "Correlation"
+   },
+   {
+    "n": 188,
+    "name": "Regression Analysis"
+   },
+   {
+    "n": 189,
+    "name": "ANOVA"
+   },
+   {
+    "n": 190,
+    "name": "Chi-square Tests"
+   },
+   {
+    "n": 191,
+    "name": "Survival Analysis"
+   },
+   {
+    "n": 192,
+    "name": "ROC Curves and AUC"
+   },
+   {
+    "n": 193,
+    "name": "Sensitivity and Specificity"
+   },
+   {
+    "n": 194,
+    "name": "Epidemiology"
+   },
+   {
+    "n": 195,
+    "name": "Disease Surveillance"
+   },
+   {
+    "n": 196,
+    "name": "Incidence and Prevalence"
+   },
+   {
+    "n": 197,
+    "name": "Risk Assessment"
+   },
+   {
+    "n": 198,
+    "name": "Cohort Studies"
+   },
+   {
+    "n": 199,
+    "name": "Case-Control Studies"
+   },
+   {
+    "n": 200,
+    "name": "Cross-sectional Studies"
+   },
+   {
+    "n": 201,
+    "name": "Randomised Controlled Trials"
+   },
+   {
+    "n": 202,
+    "name": "Clinical Research Methodology"
+   },
+   {
+    "n": 203,
+    "name": "Systematic Reviews"
+   },
+   {
+    "n": 204,
+    "name": "Meta-analysis"
+   },
+   {
+    "n": 205,
+    "name": "Evidence-Based Medicine"
+   },
+   {
+    "n": 206,
+    "name": "Scientific Writing"
+   }
+  ]
+ },
+ {
+  "letter": "I",
+  "name": "Genomics and Molecular Healthcare",
+  "topics": [
+   {
+    "n": 207,
+    "name": "Molecular Genetics"
+   },
+   {
+    "n": 208,
+    "name": "Human Genome"
+   },
+   {
+    "n": 209,
+    "name": "Genome Organisation"
+   },
+   {
+    "n": 210,
+    "name": "DNA Replication"
+   },
+   {
+    "n": 211,
+    "name": "Transcription"
+   },
+   {
+    "n": 212,
+    "name": "Translation"
+   },
+   {
+    "n": 213,
+    "name": "Gene Expression"
+   },
+   {
+    "n": 214,
+    "name": "Gene Regulation"
+   },
+   {
+    "n": 215,
+    "name": "Epigenomics"
+   },
+   {
+    "n": 216,
+    "name": "Transcriptomics"
+   },
+   {
+    "n": 217,
+    "name": "Proteomics"
+   },
+   {
+    "n": 218,
+    "name": "Metabolomics"
+   },
+   {
+    "n": 219,
+    "name": "Multi-omics"
+   },
+   {
+    "n": 220,
+    "name": "Next-Generation Sequencing"
+   },
+   {
+    "n": 221,
+    "name": "Whole Genome Sequencing"
+   },
+   {
+    "n": 222,
+    "name": "Whole Exome Sequencing"
+   },
+   {
+    "n": 223,
+    "name": "RNA Sequencing"
+   },
+   {
+    "n": 224,
+    "name": "Bioinformatics Pipelines"
+   },
+   {
+    "n": 225,
+    "name": "Sequence Alignment"
+   },
+   {
+    "n": 226,
+    "name": "Variant Calling"
+   },
+   {
+    "n": 227,
+    "name": "Genome Annotation"
+   },
+   {
+    "n": 228,
+    "name": "FASTA and FASTQ"
+   },
+   {
+    "n": 229,
+    "name": "SAM and BAM"
+   },
+   {
+    "n": 230,
+    "name": "VCF"
+   },
+   {
+    "n": 231,
+    "name": "CRISPR-Cas Systems"
+   },
+   {
+    "n": 232,
+    "name": "Gene Editing"
+   },
+   {
+    "n": 233,
+    "name": "Gene Therapy"
+   },
+   {
+    "n": 234,
+    "name": "Pharmacogenomics"
+   },
+   {
+    "n": 235,
+    "name": "Precision Medicine"
+   }
+  ]
+ },
+ {
+  "letter": "J",
+  "name": "Pharmacology and Drug Development",
+  "topics": [
+   {
+    "n": 236,
+    "name": "General Pharmacology"
+   },
+   {
+    "n": 237,
+    "name": "Pharmacokinetics"
+   },
+   {
+    "n": 238,
+    "name": "Pharmacodynamics"
+   },
+   {
+    "n": 239,
+    "name": "Drug–Receptor Interactions"
+   },
+   {
+    "n": 240,
+    "name": "Drug Absorption"
+   },
+   {
+    "n": 241,
+    "name": "Drug Distribution"
+   },
+   {
+    "n": 242,
+    "name": "Drug Metabolism"
+   },
+   {
+    "n": 243,
+    "name": "Drug Excretion"
+   },
+   {
+    "n": 244,
+    "name": "Drug Toxicology"
+   },
+   {
+    "n": 245,
+    "name": "Drug Discovery"
+   },
+   {
+    "n": 246,
+    "name": "Drug Development"
+   },
+   {
+    "n": 247,
+    "name": "Pharmaceutical Biotechnology"
+   },
+   {
+    "n": 248,
+    "name": "Drug Delivery Systems"
+   },
+   {
+    "n": 249,
+    "name": "Targeted Drug Delivery"
+   },
+   {
+    "n": 250,
+    "name": "Controlled Drug Release"
+   },
+   {
+    "n": 251,
+    "name": "Nanomedicine"
+   },
+   {
+    "n": 252,
+    "name": "Clinical Trials"
+   },
+   {
+    "n": 253,
+    "name": "Pharmacovigilance"
+   },
+   {
+    "n": 254,
+    "name": "Drug Resistance"
+   },
+   {
+    "n": 255,
+    "name": "Pharmacogenetics"
+   }
+  ]
+ },
+ {
+  "letter": "K",
+  "name": "Public Health and Global Healthcare",
+  "topics": [
+   {
+    "n": 256,
+    "name": "Public Health"
+   },
+   {
+    "n": 257,
+    "name": "Global Health"
+   },
+   {
+    "n": 258,
+    "name": "Community Medicine"
+   },
+   {
+    "n": 259,
+    "name": "Preventive Medicine"
+   },
+   {
+    "n": 260,
+    "name": "Social Determinants of Health"
+   },
+   {
+    "n": 261,
+    "name": "Health Promotion"
+   },
+   {
+    "n": 262,
+    "name": "Health Education"
+   },
+   {
+    "n": 263,
+    "name": "Environmental Health"
+   },
+   {
+    "n": 264,
+    "name": "Occupational Health"
+   },
+   {
+    "n": 265,
+    "name": "Nutrition and Public Health"
+   },
+   {
+    "n": 266,
+    "name": "Maternal and Child Health"
+   },
+   {
+    "n": 267,
+    "name": "Infectious Disease Control"
+   },
+   {
+    "n": 268,
+    "name": "Immunisation"
+   },
+   {
+    "n": 269,
+    "name": "Health Policy"
+   },
+   {
+    "n": 270,
+    "name": "Health Economics"
+   },
+   {
+    "n": 271,
+    "name": "Universal Health Coverage"
+   },
+   {
+    "n": 272,
+    "name": "Healthcare Accessibility"
+   },
+   {
+    "n": 273,
+    "name": "One Health"
+   },
+   {
+    "n": 274,
+    "name": "Disaster Medicine"
+   },
+   {
+    "n": 275,
+    "name": "Healthcare Systems"
+   }
+  ]
+ },
+ {
+  "letter": "L",
+  "name": "Medical Devices, Robotics and Rehabilitation",
+  "topics": [
+   {
+    "n": 276,
+    "name": "Medical Device Engineering"
+   },
+   {
+    "n": 277,
+    "name": "Prosthetics"
+   },
+   {
+    "n": 278,
+    "name": "Orthotics"
+   },
+   {
+    "n": 279,
+    "name": "Artificial Organs"
+   },
+   {
+    "n": 280,
+    "name": "Cardiac Pacemakers"
+   },
+   {
+    "n": 281,
+    "name": "Ventilators"
+   },
+   {
+    "n": 282,
+    "name": "Dialysis Machines"
+   },
+   {
+    "n": 283,
+    "name": "Infusion Pumps"
+   },
+   {
+    "n": 284,
+    "name": "Surgical Robotics"
+   },
+   {
+    "n": 285,
+    "name": "Rehabilitation Engineering"
+   },
+   {
+    "n": 286,
+    "name": "Assistive Technology"
+   },
+   {
+    "n": 287,
+    "name": "Medical Exoskeletons"
+   },
+   {
+    "n": 288,
+    "name": "Neuroprosthetics"
+   },
+   {
+    "n": 289,
+    "name": "Brain–Computer Interfaces"
+   },
+   {
+    "n": 290,
+    "name": "Haptic Technology"
+   },
+   {
+    "n": 291,
+    "name": "Image-Guided Surgery"
+   },
+   {
+    "n": 292,
+    "name": "Minimally Invasive Surgery"
+   },
+   {
+    "n": 293,
+    "name": "Robotic Rehabilitation"
+   }
+  ]
+ },
+ {
+  "letter": "M",
+  "name": "Biotechnology and Synthetic Biology",
+  "topics": [
+   {
+    "n": 294,
+    "name": "Medical Biotechnology"
+   },
+   {
+    "n": 295,
+    "name": "Industrial Biotechnology"
+   },
+   {
+    "n": 296,
+    "name": "Microbial Biotechnology"
+   },
+   {
+    "n": 297,
+    "name": "Genetic Engineering"
+   },
+   {
+    "n": 298,
+    "name": "Recombinant DNA Technology"
+   },
+   {
+    "n": 299,
+    "name": "Protein Engineering"
+   },
+   {
+    "n": 300,
+    "name": "Cell Culture Technology"
+   },
+   {
+    "n": 301,
+    "name": "Bioprocess Engineering"
+   },
+   {
+    "n": 302,
+    "name": "Fermentation Technology"
+   },
+   {
+    "n": 303,
+    "name": "Vaccine Technology"
+   },
+   {
+    "n": 304,
+    "name": "Antibody Engineering"
+   },
+   {
+    "n": 305,
+    "name": "Monoclonal Antibodies"
+   },
+   {
+    "n": 306,
+    "name": "Synthetic Biology"
+   },
+   {
+    "n": 307,
+    "name": "Cell Therapy"
+   },
+   {
+    "n": 308,
+    "name": "Gene Therapy"
+   },
+   {
+    "n": 309,
+    "name": "Biopharmaceuticals"
+   }
+  ]
+ },
+ {
+  "letter": "N",
+  "name": "Nutrition and Lifestyle Sciences",
+  "topics": [
+   {
+    "n": 310,
+    "name": "Human Nutrition"
+   },
+   {
+    "n": 311,
+    "name": "Macronutrients"
+   },
+   {
+    "n": 312,
+    "name": "Micronutrients"
+   },
+   {
+    "n": 313,
+    "name": "Nutritional Biochemistry"
+   },
+   {
+    "n": 314,
+    "name": "Metabolic Pathways"
+   },
+   {
+    "n": 315,
+    "name": "Clinical Nutrition"
+   },
+   {
+    "n": 316,
+    "name": "Nutritional Deficiencies"
+   },
+   {
+    "n": 317,
+    "name": "Gut Microbiome"
+   },
+   {
+    "n": 318,
+    "name": "Obesity and Metabolic Syndrome"
+   },
+   {
+    "n": 319,
+    "name": "Exercise Physiology"
+   },
+   {
+    "n": 320,
+    "name": "Sleep Science"
+   },
+   {
+    "n": 321,
+    "name": "Lifestyle Medicine"
+   }
+  ]
+ },
+ {
+  "letter": "O",
+  "name": "Healthcare Ethics, Law and Management",
+  "topics": [
+   {
+    "n": 322,
+    "name": "Medical Ethics"
+   },
+   {
+    "n": 323,
+    "name": "Biomedical Ethics"
+   },
+   {
+    "n": 324,
+    "name": "Informed Consent"
+   },
+   {
+    "n": 325,
+    "name": "Patient Confidentiality"
+   },
+   {
+    "n": 326,
+    "name": "Medical Data Privacy"
+   },
+   {
+    "n": 327,
+    "name": "Clinical Research Ethics"
+   },
+   {
+    "n": 328,
+    "name": "Intellectual Property Rights"
+   },
+   {
+    "n": 329,
+    "name": "Medical Device Regulations"
+   },
+   {
+    "n": 330,
+    "name": "Healthcare Data Protection"
+   },
+   {
+    "n": 331,
+    "name": "AI Ethics"
+   },
+   {
+    "n": 332,
+    "name": "Hospital Management"
+   },
+   {
+    "n": 333,
+    "name": "Healthcare Administration"
+   },
+   {
+    "n": 334,
+    "name": "Healthcare Financing"
+   },
+   {
+    "n": 335,
+    "name": "Healthcare Quality Management"
+   },
+   {
+    "n": 336,
+    "name": "Patient Safety"
+   },
+   {
+    "n": 337,
+    "name": "Health Technology Assessment"
+   },
+   {
+    "n": 338,
+    "name": "Healthcare Entrepreneurship"
+   },
+   {
+    "n": 339,
+    "name": "Healthcare Innovation"
+   }
+  ]
+ },
+ {
+  "letter": "P",
+  "name": "Emerging and Future Healthcare Technologies",
+  "topics": [
+   {
+    "n": 340,
+    "name": "Nanotechnology in Medicine"
+   },
+   {
+    "n": 341,
+    "name": "Nanomedicine"
+   },
+   {
+    "n": 342,
+    "name": "Smart Biomaterials"
+   },
+   {
+    "n": 343,
+    "name": "4D Bioprinting"
+   },
+   {
+    "n": 344,
+    "name": "Digital Twins in Healthcare"
+   },
+   {
+    "n": 345,
+    "name": "Organ-on-a-Chip"
+   },
+   {
+    "n": 346,
+    "name": "Advanced Organoids"
+   },
+   {
+    "n": 347,
+    "name": "Neural Engineering"
+   },
+   {
+    "n": 348,
+    "name": "Bioelectronics"
+   },
+   {
+    "n": 349,
+    "name": "Biohybrid Systems"
+   },
+   {
+    "n": 350,
+    "name": "In-silico Clinical Trials"
+   },
+   {
+    "n": 351,
+    "name": "Quantum Computing in Healthcare"
+   },
+   {
+    "n": 352,
+    "name": "Personalised Digital Healthcare"
+   },
+   {
+    "n": 353,
+    "name": "Autonomous Medical Systems"
+   },
+   {
+    "n": 354,
+    "name": "AI-Driven Drug Discovery"
+   },
+   {
+    "n": 355,
+    "name": "Regenerative Therapies"
+   }
+  ]
+ }
+]

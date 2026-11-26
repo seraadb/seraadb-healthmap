@@ -1,0 +1,54 @@
+{
+ "title": "Pharmacokinetics",
+ "text": "What the body does to a drug, summarised as ADME: absorption, distribution, metabolism and excretion.",
+ "children": [
+  {
+   "title": "Absorption",
+   "text": "Entry into the blood.",
+   "children": [
+    {
+     "title": "Routes",
+     "text": "Oral, IV, inhaled and transdermal routes differ in speed and completeness.",
+     "children": []
+    },
+    {
+     "title": "Bioavailability",
+     "text": "The fraction of a dose reaching the circulation; IV is 100%.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "title": "Distribution",
+   "text": "Spread through the body.",
+   "children": [
+    {
+     "title": "Volume of distribution",
+     "text": "A theoretical volume linking dose to plasma concentration. Large values suggest tissue binding.",
+     "children": []
+    },
+    {
+     "title": "Protein binding",
+     "text": "Only unbound drug is active; displacement can cause toxicity.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "title": "Elimination",
+   "text": "Metabolism and excretion.",
+   "children": [
+    {
+     "title": "Metabolism",
+     "text": "Liver enzymes (CYP450) convert drugs into forms that are easier to excrete.",
+     "children": []
+    },
+    {
+     "title": "Half-life",
+     "text": "Time for the concentration to halve; steady state is reached after about 4–5 half-lives.",
+     "children": []
+    }
+   ]
+  }
+ ]
+}
